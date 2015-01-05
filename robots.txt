@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_cgi-bin/
+Disallow: /_errorpages/
+Disallow: /fonts/
